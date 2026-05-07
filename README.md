@@ -33,8 +33,14 @@ Sou aprendiz técnico dentro da empresa WEG, cursando aprendizagem em informáti
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Tamborelli-Ferreira-lino&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Tamborelli-Ferreira-lino&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Tamborelli-Ferreira-lino&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Tamborelli-Ferreira-lino&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8&cache_seconds=1800"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eduardo-Tamborelli-Ferreira-lino&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff)](https://git.io/streak-stats)
 
 </div>
 
